@@ -1,0 +1,5 @@
+{
+  "name": "GK PT App",
+  "description": "A high-performance, mobile-first workout tracker for the GK PT program, featuring a dark-mode neon aesthetic and local storage persistence.",
+  "requestFramePermissions": []
+}
